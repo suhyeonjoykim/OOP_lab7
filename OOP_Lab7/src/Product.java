@@ -2,6 +2,10 @@
 public abstract class Product {
 
 	public double price;
+	
+	public void Product(){
+		
+	}
 
 	public double getPrice() {
 		return price;
